@@ -79,6 +79,7 @@ O método `converter()` constrói a URL da API com base nas moedas fornecidas pe
 *   **Tratamento de erros:** O código possui um tratamento básico de erros. Um tratamento mais robusto, como tratamento de exceções específicas e mensagens de erro mais informativas, pode ser implementado.
 *   **Validação de entrada:** A validação das entradas do usuário (ex: moedas inválidas) pode ser melhorada.
 *   **Limites da API gratuita:** A API ExchangeRate-API possui limites de requisições em seu plano gratuito. Considere isso ao utilizar o programa.
+*   **O código é funcional, mas pode ser melhorado e utilizado como base para estudos
 
 ## Contribuições
 
