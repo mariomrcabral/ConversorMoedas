@@ -9,6 +9,7 @@ Este projeto em Java implementa um conversor de moedas utilizando a API [Exchang
 *   Interface de usuário simples via console.
 *   Utilização da biblioteca Gson para manipulação de JSON.
 *   Tratamento de erros e opções inválidas.
+*   Manipulação de entrada e tratamento dos dados por HttpClient, HttpRequest e HttpResponse.
 
 ## Pré-requisitos
 
